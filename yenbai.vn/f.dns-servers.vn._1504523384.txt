@@ -1,0 +1,24 @@
+yenbai.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010426 3600 1800 604800 5400
+yenbai.vn.		43200	IN	NS	a.dns-servers.vn.
+yenbai.vn.		43200	IN	NS	b.dns-servers.vn.
+yenbai.vn.		43200	IN	NS	c.dns-servers.vn.
+yenbai.vn.		43200	IN	NS	d.dns-servers.vn.
+yenbai.vn.		43200	IN	NS	e.dns-servers.vn.
+yenbai.vn.		43200	IN	NS	f.dns-servers.vn.
+yenbai.vn.		43200	IN	NS	g.dns-servers.vn.
+cntt.yenbai.vn.		43200	IN	NS	ns1.zonedns.vn.
+cntt.yenbai.vn.		43200	IN	NS	ns2.zonedns.vn.
+cntt.yenbai.vn.		43200	IN	NS	ns3.zonedns.vn.
+cntt.yenbai.vn.		43200	IN	NS	ns4.zonedns.vn.
+dacsanmucangchai.yenbai.vn. 43200 IN	NS	ns4.tenten.vn.
+dacsanmucangchai.yenbai.vn. 43200 IN	NS	ns5.tenten.vn.
+dacsanmucangchai.yenbai.vn. 43200 IN	NS	ns6.tenten.vn.
+hhdn.yenbai.vn.		43200	IN	NS	dns21.fpt.vn.
+hhdn.yenbai.vn.		43200	IN	NS	dns22.fpt.vn.
+shop.yenbai.vn.		43200	IN	NS	ns1.vietcorp.vn.
+shop.yenbai.vn.		43200	IN	NS	ns2.vietcorp.vn.
+vnpt.yenbai.vn.		43200	IN	NS	ns-hold.vnnic.vn.
+xekhachvietphuong.yenbai.vn. 43200 IN	NS	ns1.vdconline.vn.
+xekhachvietphuong.yenbai.vn. 43200 IN	NS	ns2.vdconline.vn.
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.yenbai.vn. 43200 IN TXT	"Check Intergrity"
+yenbai.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010426 3600 1800 604800 5400

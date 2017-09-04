@@ -1,0 +1,14 @@
+haugiang.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010407 3600 1800 604800 5400
+haugiang.vn.		43200	IN	NS	a.dns-servers.vn.
+haugiang.vn.		43200	IN	NS	b.dns-servers.vn.
+haugiang.vn.		43200	IN	NS	c.dns-servers.vn.
+haugiang.vn.		43200	IN	NS	d.dns-servers.vn.
+haugiang.vn.		43200	IN	NS	e.dns-servers.vn.
+haugiang.vn.		43200	IN	NS	f.dns-servers.vn.
+haugiang.vn.		43200	IN	NS	g.dns-servers.vn.
+minhphu.haugiang.vn.	43200	IN	NS	ns1.dns.net.vn.
+minhphu.haugiang.vn.	43200	IN	NS	ns2.dns.net.vn.
+shop.haugiang.vn.	43200	IN	NS	dns1.vietcorp.vn.
+shop.haugiang.vn.	43200	IN	NS	dns2.vietcorp.vn.
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.haugiang.vn. 43200 IN TXT "Check Intergrity"
+haugiang.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010407 3600 1800 604800 5400

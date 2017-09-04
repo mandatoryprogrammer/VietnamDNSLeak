@@ -1,0 +1,16 @@
+kontum.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010409 3600 1800 604800 5400
+kontum.vn.		43200	IN	NS	a.dns-servers.vn.
+kontum.vn.		43200	IN	NS	b.dns-servers.vn.
+kontum.vn.		43200	IN	NS	c.dns-servers.vn.
+kontum.vn.		43200	IN	NS	d.dns-servers.vn.
+kontum.vn.		43200	IN	NS	e.dns-servers.vn.
+kontum.vn.		43200	IN	NS	f.dns-servers.vn.
+kontum.vn.		43200	IN	NS	g.dns-servers.vn.
+capquangviettel.kontum.vn. 43200 IN	NS	dns23.fpt.vn.
+capquangviettel.kontum.vn. 43200 IN	NS	dns24.fpt.vn.
+samngoclinh.kontum.vn.	43200	IN	NS	ns1.matbao.vn.
+samngoclinh.kontum.vn.	43200	IN	NS	ns2.matbao.vn.
+shop.kontum.vn.		43200	IN	NS	dns1.vietcorp.vn.
+shop.kontum.vn.		43200	IN	NS	dns2.vietcorp.vn.
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.kontum.vn. 43200 IN TXT	"Check Intergrity"
+kontum.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010409 3600 1800 604800 5400

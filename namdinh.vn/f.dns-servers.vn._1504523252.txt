@@ -1,0 +1,22 @@
+namdinh.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010408 3600 1800 604800 5400
+namdinh.vn.		43200	IN	NS	a.dns-servers.vn.
+namdinh.vn.		43200	IN	NS	b.dns-servers.vn.
+namdinh.vn.		43200	IN	NS	c.dns-servers.vn.
+namdinh.vn.		43200	IN	NS	d.dns-servers.vn.
+namdinh.vn.		43200	IN	NS	e.dns-servers.vn.
+namdinh.vn.		43200	IN	NS	f.dns-servers.vn.
+namdinh.vn.		43200	IN	NS	g.dns-servers.vn.
+binhansi.namdinh.vn.	43200	IN	NS	ns1.vdconline.vn.
+binhansi.namdinh.vn.	43200	IN	NS	ns2.vdconline.vn.
+dacsanhaihau.namdinh.vn. 43200	IN	NS	ns1.bkdns.vn.
+dacsanhaihau.namdinh.vn. 43200	IN	NS	ns2.bkdns.vn.
+dacsanhaihau.namdinh.vn. 43200	IN	NS	ns3.bkdns.vn.
+sannhua.namdinh.vn.	43200	IN	NS	ns1.matbao.vn.
+sannhua.namdinh.vn.	43200	IN	NS	ns2.matbao.vn.
+shop.namdinh.vn.	43200	IN	NS	dns1.vietcorp.vn.
+shop.namdinh.vn.	43200	IN	NS	dns2.vietcorp.vn.
+thptphamvannghi.namdinh.vn. 43200 IN	NS	ns1.pavietnam.vn.
+thptphamvannghi.namdinh.vn. 43200 IN	NS	ns2.pavietnam.vn.
+thptphamvannghi.namdinh.vn. 43200 IN	NS	nsbak.pavietnam.net.
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.namdinh.vn. 43200 IN TXT "Check Intergrity"
+namdinh.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010408 3600 1800 604800 5400

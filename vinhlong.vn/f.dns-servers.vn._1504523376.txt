@@ -1,0 +1,27 @@
+vinhlong.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010413 3600 1800 604800 5400
+vinhlong.vn.		43200	IN	NS	a.dns-servers.vn.
+vinhlong.vn.		43200	IN	NS	b.dns-servers.vn.
+vinhlong.vn.		43200	IN	NS	c.dns-servers.vn.
+vinhlong.vn.		43200	IN	NS	d.dns-servers.vn.
+vinhlong.vn.		43200	IN	NS	e.dns-servers.vn.
+vinhlong.vn.		43200	IN	NS	f.dns-servers.vn.
+vinhlong.vn.		43200	IN	NS	g.dns-servers.vn.
+nbk.vinhlong.vn.	43200	IN	NS	ns1.pavietnam.vn.
+nbk.vinhlong.vn.	43200	IN	NS	ns2.pavietnam.vn.
+nbk.vinhlong.vn.	43200	IN	NS	nsbak.pavietnam.net.
+ngoiquang.vinhlong.vn.	43200	IN	NS	ns4.tenten.vn.
+ngoiquang.vinhlong.vn.	43200	IN	NS	ns5.tenten.vn.
+ngoiquang.vinhlong.vn.	43200	IN	NS	ns6.tenten.vn.
+shop.vinhlong.vn.	43200	IN	NS	ns1.vietcorp.vn.
+shop.vinhlong.vn.	43200	IN	NS	ns2.vietcorp.vn.
+trinhdocn.vinhlong.vn.	43200	IN	NS	ns1.netnam.vn.
+trinhdocn.vinhlong.vn.	43200	IN	NS	ns2.netnam.vn.
+vietravel.vinhlong.vn.	43200	IN	NS	ns1.netnam.vn.
+vietravel.vinhlong.vn.	43200	IN	NS	ns2.netnam.vn.
+viettravel.vinhlong.vn.	43200	IN	NS	ns1.netnam.vn.
+viettravel.vinhlong.vn.	43200	IN	NS	ns2.netnam.vn.
+www.vinhlong.vn.	43200	IN	NS	ns1.tenmienquocgia.vn.
+www.vinhlong.vn.	43200	IN	NS	ns2.tenmienquocgia.vn.
+www.vinhlong.vn.	43200	IN	NS	tel.0989212722.tenmienquocgia.vn.
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.vinhlong.vn. 43200 IN TXT "Check Intergrity"
+vinhlong.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010413 3600 1800 604800 5400

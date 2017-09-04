@@ -1,0 +1,37 @@
+quangninh.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010424 3600 1800 604800 5400
+quangninh.vn.		43200	IN	NS	a.dns-servers.vn.
+quangninh.vn.		43200	IN	NS	b.dns-servers.vn.
+quangninh.vn.		43200	IN	NS	c.dns-servers.vn.
+quangninh.vn.		43200	IN	NS	d.dns-servers.vn.
+quangninh.vn.		43200	IN	NS	e.dns-servers.vn.
+quangninh.vn.		43200	IN	NS	f.dns-servers.vn.
+quangninh.vn.		43200	IN	NS	g.dns-servers.vn.
+batdongsan.quangninh.vn. 43200	IN	NS	ns1.matbao.vn.
+batdongsan.quangninh.vn. 43200	IN	NS	ns2.matbao.vn.
+congdoancampha.quangninh.vn. 43200 IN	NS	ns4.tenten.vn.
+congdoancampha.quangninh.vn. 43200 IN	NS	ns5.tenten.vn.
+congdoancampha.quangninh.vn. 43200 IN	NS	ns6.tenten.vn.
+ismart.quangninh.vn.	43200	IN	NS	ns1.pavietnam.vn.
+ismart.quangninh.vn.	43200	IN	NS	ns2.pavietnam.vn.
+ismart.quangninh.vn.	43200	IN	NS	nsbak.pavietnam.net.
+raovat.quangninh.vn.	43200	IN	NS	ns1.matbao.vn.
+raovat.quangninh.vn.	43200	IN	NS	ns2.matbao.vn.
+sannhua.quangninh.vn.	43200	IN	NS	ns1.matbao.vn.
+sannhua.quangninh.vn.	43200	IN	NS	ns2.matbao.vn.
+shop.quangninh.vn.	43200	IN	NS	dns1.vietcorp.vn.
+shop.quangninh.vn.	43200	IN	NS	dns2.vietcorp.vn.
+store.quangninh.vn.	43200	IN	NS	dns1.vietcorp.vn.
+store.quangninh.vn.	43200	IN	NS	dns2.vietcorp.vn.
+sungroup.quangninh.vn.	43200	IN	NS	ns1.matbao.vn.
+sungroup.quangninh.vn.	43200	IN	NS	ns2.matbao.vn.
+thongtin.quangninh.vn.	43200	IN	NS	ns1.vdconline.vn.
+thongtin.quangninh.vn.	43200	IN	NS	ns2.vdconline.vn.
+toyota.quangninh.vn.	43200	IN	NS	ns4.tenten.vn.
+toyota.quangninh.vn.	43200	IN	NS	ns5.tenten.vn.
+toyota.quangninh.vn.	43200	IN	NS	ns6.tenten.vn.
+vietravel.quangninh.vn.	43200	IN	NS	ns1.netnam.vn.
+vietravel.quangninh.vn.	43200	IN	NS	ns2.netnam.vn.
+viettravel.quangninh.vn. 43200	IN	NS	ns1.netnam.vn.
+viettravel.quangninh.vn. 43200	IN	NS	ns2.netnam.vn.
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.quangninh.vn. 43200 IN TXT "Check Intergrity"
+quangninh.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010424 3600 1800 604800 5400

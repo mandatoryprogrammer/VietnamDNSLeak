@@ -1,0 +1,12 @@
+hanam.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010407 3600 1800 604800 5400
+hanam.vn.		43200	IN	NS	a.dns-servers.vn.
+hanam.vn.		43200	IN	NS	b.dns-servers.vn.
+hanam.vn.		43200	IN	NS	c.dns-servers.vn.
+hanam.vn.		43200	IN	NS	d.dns-servers.vn.
+hanam.vn.		43200	IN	NS	e.dns-servers.vn.
+hanam.vn.		43200	IN	NS	f.dns-servers.vn.
+hanam.vn.		43200	IN	NS	g.dns-servers.vn.
+shop.hanam.vn.		43200	IN	NS	ns1.vietcorp.vn.
+shop.hanam.vn.		43200	IN	NS	ns2.vietcorp.vn.
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.hanam.vn. 43200	IN TXT "Check Intergrity"
+hanam.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010407 3600 1800 604800 5400

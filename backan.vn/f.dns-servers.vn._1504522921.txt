@@ -1,0 +1,18 @@
+backan.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010413 3600 1800 604800 5400
+backan.vn.		43200	IN	NS	a.dns-servers.vn.
+backan.vn.		43200	IN	NS	b.dns-servers.vn.
+backan.vn.		43200	IN	NS	c.dns-servers.vn.
+backan.vn.		43200	IN	NS	d.dns-servers.vn.
+backan.vn.		43200	IN	NS	e.dns-servers.vn.
+backan.vn.		43200	IN	NS	f.dns-servers.vn.
+backan.vn.		43200	IN	NS	g.dns-servers.vn.
+luyenthi.backan.vn.	43200	IN	NS	ns1.vmms.vn.
+luyenthi.backan.vn.	43200	IN	NS	ns2.vmms.vn.
+luyenthi.backan.vn.	43200	IN	NS	ns3.vmms.vn.
+luyenthi.backan.vn.	43200	IN	NS	ns4.vmms.vn.
+shop.backan.vn.		43200	IN	NS	dns1.vietcorp.vn.
+shop.backan.vn.		43200	IN	NS	dns2.vietcorp.vn.
+thietbitruonghoc.backan.vn. 43200 IN	NS	ns1.viettelidc.com.vn.
+thietbitruonghoc.backan.vn. 43200 IN	NS	ns2.viettelidc.com.vn.
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.backan.vn. 43200 IN TXT	"Check Intergrity"
+backan.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010413 3600 1800 604800 5400

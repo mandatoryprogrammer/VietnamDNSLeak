@@ -1,0 +1,27 @@
+camau.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010410 3600 1800 604800 5400
+camau.vn.		43200	IN	NS	a.dns-servers.vn.
+camau.vn.		43200	IN	NS	b.dns-servers.vn.
+camau.vn.		43200	IN	NS	c.dns-servers.vn.
+camau.vn.		43200	IN	NS	d.dns-servers.vn.
+camau.vn.		43200	IN	NS	e.dns-servers.vn.
+camau.vn.		43200	IN	NS	f.dns-servers.vn.
+camau.vn.		43200	IN	NS	g.dns-servers.vn.
+dacsan.camau.vn.	43200	IN	NS	ns1.matbao.vn.
+dacsan.camau.vn.	43200	IN	NS	ns2.matbao.vn.
+minhphu.camau.vn.	43200	IN	NS	ns1.dns.net.vn.
+minhphu.camau.vn.	43200	IN	NS	ns2.dns.net.vn.
+pibmis.camau.vn.	43200	IN	NS	ns1.matbao.vn.
+pibmis.camau.vn.	43200	IN	NS	ns2.matbao.vn.
+shop.camau.vn.		43200	IN	NS	dns1.vietcorp.vn.
+shop.camau.vn.		43200	IN	NS	dns2.vietcorp.vn.
+tca.camau.vn.		43200	IN	NS	ns4.tenten.vn.
+tca.camau.vn.		43200	IN	NS	ns5.tenten.vn.
+tca.camau.vn.		43200	IN	NS	ns6.tenten.vn.
+vic.camau.vn.		43200	IN	NS	ns1.matbao.vn.
+vic.camau.vn.		43200	IN	NS	ns2.matbao.vn.
+vietravel.camau.vn.	43200	IN	NS	ns1.netnam.vn.
+vietravel.camau.vn.	43200	IN	NS	ns2.netnam.vn.
+viettravel.camau.vn.	43200	IN	NS	ns1.netnam.vn.
+viettravel.camau.vn.	43200	IN	NS	ns2.netnam.vn.
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.camau.vn. 43200	IN TXT "Check Intergrity"
+camau.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010410 3600 1800 604800 5400

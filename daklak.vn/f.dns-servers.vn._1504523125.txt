@@ -1,0 +1,30 @@
+daklak.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010404 3600 1800 604800 5400
+daklak.vn.		43200	IN	NS	a.dns-servers.vn.
+daklak.vn.		43200	IN	NS	b.dns-servers.vn.
+daklak.vn.		43200	IN	NS	c.dns-servers.vn.
+daklak.vn.		43200	IN	NS	d.dns-servers.vn.
+daklak.vn.		43200	IN	NS	e.dns-servers.vn.
+daklak.vn.		43200	IN	NS	f.dns-servers.vn.
+daklak.vn.		43200	IN	NS	g.dns-servers.vn.
+caphesachbuonmathuot.daklak.vn.	43200 IN NS	dns23.fpt.vn.
+caphesachbuonmathuot.daklak.vn.	43200 IN NS	dns24.fpt.vn.
+caphesieusachbuonmathuot.daklak.vn. 43200 IN NS	dns23.fpt.vn.
+caphesieusachbuonmathuot.daklak.vn. 43200 IN NS	dns24.fpt.vn.
+dichvuchamsocmevabe.daklak.vn. 43200 IN	NS	ns1.vmms.vn.
+dichvuchamsocmevabe.daklak.vn. 43200 IN	NS	ns2.vmms.vn.
+dichvuthanhlapcongty.daklak.vn.	43200 IN NS	ns1.vmms.vn.
+dichvuthanhlapcongty.daklak.vn.	43200 IN NS	ns2.vmms.vn.
+dichvuthanhlapcongty.daklak.vn.	43200 IN NS	ns3.vmms.vn.
+nissan.daklak.vn.	43200	IN	NS	ns1.inet.vn.
+nissan.daklak.vn.	43200	IN	NS	ns2.inet.vn.
+pccc.daklak.vn.		43200	IN	NS	ns1.pavietnam.vn.
+pccc.daklak.vn.		43200	IN	NS	ns2.pavietnam.vn.
+pccc.daklak.vn.		43200	IN	NS	nsbak.pavietnam.net.
+shop.daklak.vn.		43200	IN	NS	dns1.vietcorp.vn.
+shop.daklak.vn.		43200	IN	NS	dns2.vietcorp.vn.
+store.daklak.vn.	43200	IN	NS	dns1.vietcorp.vn.
+store.daklak.vn.	43200	IN	NS	dns2.vietcorp.vn.
+truecoffee.daklak.vn.	43200	IN	NS	ns1.pavietnam.vn.
+truecoffee.daklak.vn.	43200	IN	NS	ns2.pavietnam.vn.
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.daklak.vn. 43200 IN TXT	"Check Intergrity"
+daklak.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010404 3600 1800 604800 5400

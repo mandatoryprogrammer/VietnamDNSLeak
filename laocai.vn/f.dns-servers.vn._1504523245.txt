@@ -1,0 +1,29 @@
+laocai.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010407 3600 1800 604800 5400
+laocai.vn.		43200	IN	NS	a.dns-servers.vn.
+laocai.vn.		43200	IN	NS	b.dns-servers.vn.
+laocai.vn.		43200	IN	NS	c.dns-servers.vn.
+laocai.vn.		43200	IN	NS	d.dns-servers.vn.
+laocai.vn.		43200	IN	NS	e.dns-servers.vn.
+laocai.vn.		43200	IN	NS	f.dns-servers.vn.
+laocai.vn.		43200	IN	NS	g.dns-servers.vn.
+batdongsan.laocai.vn.	43200	IN	NS	ns1.matbao.vn.
+batdongsan.laocai.vn.	43200	IN	NS	ns2.matbao.vn.
+dulich.laocai.vn.	43200	IN	NS	ns4.tenten.vn.
+dulich.laocai.vn.	43200	IN	NS	ns5.tenten.vn.
+dulich.laocai.vn.	43200	IN	NS	ns6.tenten.vn.
+hoanglan.laocai.vn.	43200	IN	NS	ns1.matbao.vn.
+hoanglan.laocai.vn.	43200	IN	NS	ns2.matbao.vn.
+sannhua.laocai.vn.	43200	IN	NS	ns1.matbao.vn.
+sannhua.laocai.vn.	43200	IN	NS	ns2.matbao.vn.
+sapa.laocai.vn.		43200	IN	NS	ns1.matbao.vn.
+sapa.laocai.vn.		43200	IN	NS	ns2.matbao.vn.
+shop.laocai.vn.		43200	IN	NS	dns1.vietcorp.vn.
+shop.laocai.vn.		43200	IN	NS	dns2.vietcorp.vn.
+sungroup.laocai.vn.	43200	IN	NS	ns1.matbao.vn.
+sungroup.laocai.vn.	43200	IN	NS	ns2.matbao.vn.
+vietravel.laocai.vn.	43200	IN	NS	ns1.netnam.vn.
+vietravel.laocai.vn.	43200	IN	NS	ns2.netnam.vn.
+viettravel.laocai.vn.	43200	IN	NS	ns1.netnam.vn.
+viettravel.laocai.vn.	43200	IN	NS	ns2.netnam.vn.
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.laocai.vn. 43200 IN TXT	"Check Intergrity"
+laocai.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010407 3600 1800 604800 5400

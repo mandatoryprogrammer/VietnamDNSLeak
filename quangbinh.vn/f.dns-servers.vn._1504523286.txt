@@ -1,0 +1,29 @@
+quangbinh.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010412 3600 1800 604800 5400
+quangbinh.vn.		43200	IN	NS	a.dns-servers.vn.
+quangbinh.vn.		43200	IN	NS	b.dns-servers.vn.
+quangbinh.vn.		43200	IN	NS	c.dns-servers.vn.
+quangbinh.vn.		43200	IN	NS	d.dns-servers.vn.
+quangbinh.vn.		43200	IN	NS	e.dns-servers.vn.
+quangbinh.vn.		43200	IN	NS	f.dns-servers.vn.
+quangbinh.vn.		43200	IN	NS	g.dns-servers.vn.
+dulich.quangbinh.vn.	43200	IN	NS	ns1.pgh.vn.
+dulich.quangbinh.vn.	43200	IN	NS	ns2.pgh.vn.
+dulich.quangbinh.vn.	43200	IN	NS	ns3.pgh.vn.
+phuongnambuudien.quangbinh.vn. 43200 IN	NS	ns3.vdc3.vn.
+phuongnambuudien.quangbinh.vn. 43200 IN	NS	ns4.vdc3.vn.
+shop.quangbinh.vn.	43200	IN	NS	dns1.vietcorp.vn.
+shop.quangbinh.vn.	43200	IN	NS	dns2.vietcorp.vn.
+vietravel.quangbinh.vn.	43200	IN	NS	ns1.netnam.vn.
+vietravel.quangbinh.vn.	43200	IN	NS	ns2.netnam.vn.
+viettravel.quangbinh.vn. 43200	IN	NS	ns1.netnam.vn.
+viettravel.quangbinh.vn. 43200	IN	NS	ns2.netnam.vn.
+vonguyengiap.quangbinh.vn. 43200 IN	NS	ns1.vdconline.vn.
+vonguyengiap.quangbinh.vn. 43200 IN	NS	ns2.vdconline.vn.
+www.quangbinh.vn.	43200	IN	NS	h1.hosting.vn.
+www.quangbinh.vn.	43200	IN	NS	h2.hosting.vn.
+www.quangbinh.vn.	43200	IN	NS	tel.0989212722.hosting.vn.
+xuan.quangbinh.vn.	43200	IN	NS	ns1.zonedns.vn.
+xuan.quangbinh.vn.	43200	IN	NS	ns2.zonedns.vn.
+xuan.quangbinh.vn.	43200	IN	NS	ns3.zonedns.vn.
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.quangbinh.vn. 43200 IN TXT "Check Intergrity"
+quangbinh.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010412 3600 1800 604800 5400

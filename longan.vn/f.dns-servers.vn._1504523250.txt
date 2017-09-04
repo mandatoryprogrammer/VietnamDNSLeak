@@ -1,0 +1,23 @@
+longan.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010418 3600 1800 604800 5400
+longan.vn.		43200	IN	NS	a.dns-servers.vn.
+longan.vn.		43200	IN	NS	b.dns-servers.vn.
+longan.vn.		43200	IN	NS	c.dns-servers.vn.
+longan.vn.		43200	IN	NS	d.dns-servers.vn.
+longan.vn.		43200	IN	NS	e.dns-servers.vn.
+longan.vn.		43200	IN	NS	f.dns-servers.vn.
+longan.vn.		43200	IN	NS	g.dns-servers.vn.
+banatgt.longan.vn.	43200	IN	NS	ns1.dotvndns.vn.
+banatgt.longan.vn.	43200	IN	NS	ns2.dotvndns.vn.
+banatgt.longan.vn.	43200	IN	NS	nsbak.dotvndns.com.
+cattuongphusinh.longan.vn. 43200 IN	NS	ns1.matbao.vn.
+cattuongphusinh.longan.vn. 43200 IN	NS	ns2.matbao.vn.
+cauduong.longan.vn.	43200	IN	NS	ns1.dotvndns.vn.
+cauduong.longan.vn.	43200	IN	NS	ns2.dotvndns.vn.
+dean1956.longan.vn.	43200	IN	NS	ns1.pavietnam.vn.
+dean1956.longan.vn.	43200	IN	NS	ns2.pavietnam.vn.
+hondaoto.longan.vn.	43200	IN	NS	ns1.stablehost.com.
+hondaoto.longan.vn.	43200	IN	NS	ns2.stablehost.com.
+shop.longan.vn.		43200	IN	NS	dns1.vietcorp.vn.
+shop.longan.vn.		43200	IN	NS	dns2.vietcorp.vn.
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.longan.vn. 43200 IN TXT	"Check Intergrity"
+longan.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010418 3600 1800 604800 5400

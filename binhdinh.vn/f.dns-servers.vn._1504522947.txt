@@ -1,0 +1,29 @@
+binhdinh.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010445 3600 1800 604800 5400
+binhdinh.vn.		43200	IN	NS	a.dns-servers.vn.
+binhdinh.vn.		43200	IN	NS	b.dns-servers.vn.
+binhdinh.vn.		43200	IN	NS	c.dns-servers.vn.
+binhdinh.vn.		43200	IN	NS	d.dns-servers.vn.
+binhdinh.vn.		43200	IN	NS	e.dns-servers.vn.
+binhdinh.vn.		43200	IN	NS	f.dns-servers.vn.
+binhdinh.vn.		43200	IN	NS	g.dns-servers.vn.
+aec.binhdinh.vn.	43200	IN	NS	ns3.vdc3.vn.
+aec.binhdinh.vn.	43200	IN	NS	ns4.vdc3.vn.
+dacsan.binhdinh.vn.	43200	IN	NS	ns3.vdc3.vn.
+dacsan.binhdinh.vn.	43200	IN	NS	ns4.vdc3.vn.
+hoithuyloi.binhdinh.vn.	43200	IN	NS	ns3.vdc3.vn.
+hoithuyloi.binhdinh.vn.	43200	IN	NS	ns4.vdc3.vn.
+hyundai.binhdinh.vn.	43200	IN	NS	ns1.nom.vn.
+hyundai.binhdinh.vn.	43200	IN	NS	ns2.nom.vn.
+nuocnongthon.binhdinh.vn. 43200	IN	NS	ns3.vdc3.vn.
+nuocnongthon.binhdinh.vn. 43200	IN	NS	ns4.vdc3.vn.
+quyhotrongudan.binhdinh.vn. 43200 IN	NS	ns3.vdc3.vn.
+quyhotrongudan.binhdinh.vn. 43200 IN	NS	ns4.vdc3.vn.
+shop.binhdinh.vn.	43200	IN	NS	dns1.vietcorp.vn.
+shop.binhdinh.vn.	43200	IN	NS	dns2.vietcorp.vn.
+stoneviendong.binhdinh.vn. 43200 IN	NS	ns4.tenten.vn.
+stoneviendong.binhdinh.vn. 43200 IN	NS	ns5.tenten.vn.
+stoneviendong.binhdinh.vn. 43200 IN	NS	ns6.tenten.vn.
+thongtinkhcn.binhdinh.vn. 43200	IN	NS	ns3.vdc3.vn.
+thongtinkhcn.binhdinh.vn. 43200	IN	NS	ns4.vdc3.vn.
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.binhdinh.vn. 43200 IN TXT "Check Intergrity"
+binhdinh.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010445 3600 1800 604800 5400

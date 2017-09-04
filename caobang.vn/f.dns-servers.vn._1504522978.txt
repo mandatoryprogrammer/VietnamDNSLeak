@@ -1,0 +1,14 @@
+caobang.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010407 3600 1800 604800 5400
+caobang.vn.		43200	IN	NS	a.dns-servers.vn.
+caobang.vn.		43200	IN	NS	b.dns-servers.vn.
+caobang.vn.		43200	IN	NS	c.dns-servers.vn.
+caobang.vn.		43200	IN	NS	d.dns-servers.vn.
+caobang.vn.		43200	IN	NS	e.dns-servers.vn.
+caobang.vn.		43200	IN	NS	f.dns-servers.vn.
+caobang.vn.		43200	IN	NS	g.dns-servers.vn.
+sannhua.caobang.vn.	43200	IN	NS	ns1.matbao.vn.
+sannhua.caobang.vn.	43200	IN	NS	ns2.matbao.vn.
+shop.caobang.vn.	43200	IN	NS	dns1.vietcorp.vn.
+shop.caobang.vn.	43200	IN	NS	dns2.vietcorp.vn.
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.caobang.vn. 43200 IN TXT "Check Intergrity"
+caobang.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010407 3600 1800 604800 5400

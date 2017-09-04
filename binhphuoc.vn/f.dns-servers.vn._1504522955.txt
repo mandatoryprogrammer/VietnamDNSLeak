@@ -1,0 +1,38 @@
+binhphuoc.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010432 3600 1800 604800 5400
+binhphuoc.vn.		43200	IN	NS	a.dns-servers.vn.
+binhphuoc.vn.		43200	IN	NS	b.dns-servers.vn.
+binhphuoc.vn.		43200	IN	NS	c.dns-servers.vn.
+binhphuoc.vn.		43200	IN	NS	d.dns-servers.vn.
+binhphuoc.vn.		43200	IN	NS	e.dns-servers.vn.
+binhphuoc.vn.		43200	IN	NS	f.dns-servers.vn.
+binhphuoc.vn.		43200	IN	NS	g.dns-servers.vn.
+antoanthucpham.binhphuoc.vn. 43200 IN	NS	ns1.matbao.vn.
+antoanthucpham.binhphuoc.vn. 43200 IN	NS	ns2.matbao.vn.
+datnen.binhphuoc.vn.	43200	IN	NS	ns1.dns.net.vn.
+datnen.binhphuoc.vn.	43200	IN	NS	ns2.dns.net.vn.
+hatdieu.binhphuoc.vn.	43200	IN	NS	ns1.inet.vn.
+hatdieu.binhphuoc.vn.	43200	IN	NS	ns2.inet.vn.
+hoihuunghiviethan.binhphuoc.vn.	43200 IN NS	ns1.matbao.vn.
+hoihuunghiviethan.binhphuoc.vn.	43200 IN NS	ns2.matbao.vn.
+hondaoto.binhphuoc.vn.	43200	IN	NS	ns1.matbao.vn.
+hondaoto.binhphuoc.vn.	43200	IN	NS	ns2.matbao.vn.
+huyenuybudang.binhphuoc.vn. 43200 IN	NS	ns1.matbao.vn.
+huyenuybudang.binhphuoc.vn. 43200 IN	NS	ns2.matbao.vn.
+huyenuyphurieng.binhphuoc.vn. 43200 IN	NS	ns1.pavietnam.vn.
+huyenuyphurieng.binhphuoc.vn. 43200 IN	NS	ns2.pavietnam.vn.
+huyenuyphurieng.binhphuoc.vn. 43200 IN	NS	nsbak.pavietnam.net.
+noivuphurieng.binhphuoc.vn. 43200 IN	NS	ns1.sdns.vn.
+noivuphurieng.binhphuoc.vn. 43200 IN	NS	ns2.sdns.vn.
+noivuphurieng.binhphuoc.vn. 43200 IN	NS	ns3.sdns.vn.
+shop.binhphuoc.vn.	43200	IN	NS	dns1.vietcorp.vn.
+shop.binhphuoc.vn.	43200	IN	NS	dns2.vietcorp.vn.
+socbombo.binhphuoc.vn.	43200	IN	NS	ns1.matbao.vn.
+socbombo.binhphuoc.vn.	43200	IN	NS	ns2.matbao.vn.
+ttcntttnmt.binhphuoc.vn. 43200	IN	NS	ns1.matbao.vn.
+ttcntttnmt.binhphuoc.vn. 43200	IN	NS	ns2.matbao.vn.
+xaduclieu.binhphuoc.vn.	43200	IN	NS	ns1.matbao.vn.
+xaduclieu.binhphuoc.vn.	43200	IN	NS	ns2.matbao.vn.
+xatanhung.binhphuoc.vn.	43200	IN	NS	ns1.matbao.vn.
+xatanhung.binhphuoc.vn.	43200	IN	NS	ns2.matbao.vn.
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.binhphuoc.vn. 43200 IN TXT "Check Intergrity"
+binhphuoc.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010432 3600 1800 604800 5400

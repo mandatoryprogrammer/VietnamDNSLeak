@@ -1,0 +1,17 @@
+tiengiang.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010427 3600 1800 604800 5400
+tiengiang.vn.		43200	IN	NS	a.dns-servers.vn.
+tiengiang.vn.		43200	IN	NS	b.dns-servers.vn.
+tiengiang.vn.		43200	IN	NS	c.dns-servers.vn.
+tiengiang.vn.		43200	IN	NS	d.dns-servers.vn.
+tiengiang.vn.		43200	IN	NS	e.dns-servers.vn.
+tiengiang.vn.		43200	IN	NS	f.dns-servers.vn.
+tiengiang.vn.		43200	IN	NS	g.dns-servers.vn.
+phucduyen.tiengiang.vn.	43200	IN	NS	ns1.pavietnam.vn.
+phucduyen.tiengiang.vn.	43200	IN	NS	ns2.pavietnam.vn.
+phucduyen.tiengiang.vn.	43200	IN	NS	nsbak.pavietnam.net.
+shop.tiengiang.vn.	43200	IN	NS	dns1.vietcorp.vn.
+shop.tiengiang.vn.	43200	IN	NS	dns2.vietcorp.vn.
+www.tiengiang.vn.	43200	IN	NS	ns1.pavietnam.vn.
+www.tiengiang.vn.	43200	IN	NS	ns2.pavietnam.vn.
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.tiengiang.vn. 43200 IN TXT "Check Intergrity"
+tiengiang.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010427 3600 1800 604800 5400

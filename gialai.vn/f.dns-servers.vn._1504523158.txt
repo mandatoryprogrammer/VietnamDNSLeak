@@ -1,0 +1,31 @@
+gialai.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010425 3600 1800 604800 5400
+gialai.vn.		43200	IN	NS	a.dns-servers.vn.
+gialai.vn.		43200	IN	NS	b.dns-servers.vn.
+gialai.vn.		43200	IN	NS	c.dns-servers.vn.
+gialai.vn.		43200	IN	NS	d.dns-servers.vn.
+gialai.vn.		43200	IN	NS	e.dns-servers.vn.
+gialai.vn.		43200	IN	NS	f.dns-servers.vn.
+gialai.vn.		43200	IN	NS	g.dns-servers.vn.
+capquang.gialai.vn.	43200	IN	NS	ns4.tenten.vn.
+capquang.gialai.vn.	43200	IN	NS	ns5.tenten.vn.
+capquang.gialai.vn.	43200	IN	NS	ns6.tenten.vn.
+fpt.gialai.vn.		43200	IN	NS	ns1.dns.net.vn.
+fpt.gialai.vn.		43200	IN	NS	ns2.dns.net.vn.
+hypebeast.gialai.vn.	43200	IN	NS	ns1.matbao.vn.
+hypebeast.gialai.vn.	43200	IN	NS	ns2.matbao.vn.
+hyundai.gialai.vn.	43200	IN	NS	dns331.doteasy.com.
+hyundai.gialai.vn.	43200	IN	NS	dns332.doteasy.com.
+oto.gialai.vn.		43200	IN	NS	ns1.matbao.vn.
+oto.gialai.vn.		43200	IN	NS	ns2.matbao.vn.
+raovat.gialai.vn.	43200	IN	NS	ns1.matbao.vn.
+raovat.gialai.vn.	43200	IN	NS	ns2.matbao.vn.
+shop.gialai.vn.		43200	IN	NS	dns1.vietcorp.vn.
+shop.gialai.vn.		43200	IN	NS	dns2.vietcorp.vn.
+viettel.gialai.vn.	43200	IN	NS	ns4.tenten.vn.
+viettel.gialai.vn.	43200	IN	NS	ns5.tenten.vn.
+viettel.gialai.vn.	43200	IN	NS	ns6.tenten.vn.
+vnpt.gialai.vn.		43200	IN	NS	ns4.tenten.vn.
+vnpt.gialai.vn.		43200	IN	NS	ns5.tenten.vn.
+vnpt.gialai.vn.		43200	IN	NS	ns6.tenten.vn.
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.gialai.vn. 43200 IN TXT	"Check Intergrity"
+gialai.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010425 3600 1800 604800 5400

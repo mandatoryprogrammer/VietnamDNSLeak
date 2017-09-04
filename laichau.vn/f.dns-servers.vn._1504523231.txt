@@ -1,0 +1,12 @@
+laichau.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010407 3600 1800 604800 5400
+laichau.vn.		43200	IN	NS	a.dns-servers.vn.
+laichau.vn.		43200	IN	NS	b.dns-servers.vn.
+laichau.vn.		43200	IN	NS	c.dns-servers.vn.
+laichau.vn.		43200	IN	NS	d.dns-servers.vn.
+laichau.vn.		43200	IN	NS	e.dns-servers.vn.
+laichau.vn.		43200	IN	NS	f.dns-servers.vn.
+laichau.vn.		43200	IN	NS	g.dns-servers.vn.
+shop.laichau.vn.	43200	IN	NS	ns1.vietcorp.vn.
+shop.laichau.vn.	43200	IN	NS	ns2.vietcorp.vn.
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.laichau.vn. 43200 IN TXT "Check Intergrity"
+laichau.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010407 3600 1800 604800 5400

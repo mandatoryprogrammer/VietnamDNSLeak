@@ -1,0 +1,31 @@
+dns-servers.vn.		86400	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017011903 3600 1800 604800 5400
+dns-servers.vn.		86400	IN	NS	a.dns-servers.vn.
+dns-servers.vn.		86400	IN	NS	b.dns-servers.vn.
+dns-servers.vn.		86400	IN	NS	c.dns-servers.vn.
+dns-servers.vn.		86400	IN	NS	d.dns-servers.vn.
+dns-servers.vn.		86400	IN	NS	e.dns-servers.vn.
+dns-servers.vn.		86400	IN	NS	f.dns-servers.vn.
+dns-servers.vn.		86400	IN	NS	vn.cctld.authdns.ripe.net.
+a.dns-servers.vn.	86400	IN	AAAA	2001:678:4::12
+a.dns-servers.vn.	86400	IN	A	194.0.1.18
+b.dns-servers.vn.	86400	IN	AAAA	2001:dc8:1:2::105
+b.dns-servers.vn.	86400	IN	A	203.119.73.105
+b1.dns-servers.vn.	86400	IN	A	203.119.75.27
+b2.dns-servers.vn.	86400	IN	A	203.119.75.28
+c.dns-servers.vn.	86400	IN	AAAA	2001:dc8:c000:7::105
+c.dns-servers.vn.	86400	IN	A	203.119.38.105
+c1.dns-servers.vn.	86400	IN	AAAA	2001:dc8:c000:c::167
+c1.dns-servers.vn.	86400	IN	A	203.119.36.167
+c2.dns-servers.vn.	86400	IN	AAAA	2001:dc8:c000:c::168
+c2.dns-servers.vn.	86400	IN	A	203.119.36.168
+d.dns-servers.vn.	86400	IN	A	203.119.44.105
+e.dns-servers.vn.	86400	IN	A	203.119.60.105
+f.dns-servers.vn.	86400	IN	AAAA	2001:dc8:d000:2::105
+f.dns-servers.vn.	86400	IN	A	203.119.68.105
+f1.dns-servers.vn.	43200	IN	AAAA	2001:dc8:d000:c::7
+f1.dns-servers.vn.	43200	IN	A	203.119.68.7
+f2.dns-servers.vn.	43200	IN	AAAA	2001:dc8:d000:c::8
+f2.dns-servers.vn.	43200	IN	A	203.119.68.8
+g.dns-servers.vn.	86400	IN	AAAA	2001:500:14:6115:ad::1
+g.dns-servers.vn.	86400	IN	A	204.61.216.115
+dns-servers.vn.		86400	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017011903 3600 1800 604800 5400

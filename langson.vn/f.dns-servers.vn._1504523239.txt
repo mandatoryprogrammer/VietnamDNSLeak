@@ -1,0 +1,21 @@
+langson.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010410 3600 1800 604800 5400
+langson.vn.		43200	IN	NS	a.dns-servers.vn.
+langson.vn.		43200	IN	NS	b.dns-servers.vn.
+langson.vn.		43200	IN	NS	c.dns-servers.vn.
+langson.vn.		43200	IN	NS	d.dns-servers.vn.
+langson.vn.		43200	IN	NS	e.dns-servers.vn.
+langson.vn.		43200	IN	NS	f.dns-servers.vn.
+langson.vn.		43200	IN	NS	g.dns-servers.vn.
+anbinh.langson.vn.	43200	IN	NS	ns1.pavietnam.vn.
+anbinh.langson.vn.	43200	IN	NS	ns2.pavietnam.vn.
+anbinh.langson.vn.	43200	IN	NS	nsbak.pavietnam.net.
+quynhtd.langson.vn.	43200	IN	NS	ns1.vdconline.vn.
+quynhtd.langson.vn.	43200	IN	NS	ns2.vdconline.vn.
+sannhua.langson.vn.	43200	IN	NS	ns1.matbao.vn.
+sannhua.langson.vn.	43200	IN	NS	ns2.matbao.vn.
+shop.langson.vn.	43200	IN	NS	ns1.vietcorp.vn.
+shop.langson.vn.	43200	IN	NS	ns2.vietcorp.vn.
+thcsvinhtrai.langson.vn. 43200	IN	NS	ns1.vdconline.vn.
+thcsvinhtrai.langson.vn. 43200	IN	NS	ns2.vdconline.vn.
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.langson.vn. 43200 IN TXT "Check Intergrity"
+langson.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010410 3600 1800 604800 5400

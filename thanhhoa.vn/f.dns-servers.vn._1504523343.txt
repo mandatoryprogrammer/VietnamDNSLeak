@@ -1,0 +1,33 @@
+thanhhoa.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010424 3600 1800 604800 5400
+thanhhoa.vn.		43200	IN	NS	a.dns-servers.vn.
+thanhhoa.vn.		43200	IN	NS	b.dns-servers.vn.
+thanhhoa.vn.		43200	IN	NS	c.dns-servers.vn.
+thanhhoa.vn.		43200	IN	NS	d.dns-servers.vn.
+thanhhoa.vn.		43200	IN	NS	e.dns-servers.vn.
+thanhhoa.vn.		43200	IN	NS	f.dns-servers.vn.
+thanhhoa.vn.		43200	IN	NS	g.dns-servers.vn.
+batdongsan.thanhhoa.vn.	43200	IN	NS	ns1.matbao.vn.
+batdongsan.thanhhoa.vn.	43200	IN	NS	ns2.matbao.vn.
+chevrolet.thanhhoa.vn.	43200	IN	NS	ns1.matbao.vn.
+chevrolet.thanhhoa.vn.	43200	IN	NS	ns2.matbao.vn.
+khachsansamson.thanhhoa.vn. 43200 IN	NS	ns1.matbao.vn.
+khachsansamson.thanhhoa.vn. 43200 IN	NS	ns2.matbao.vn.
+nongthonmoi.thanhhoa.vn. 43200	IN	NS	ns1.dotvndns.vn.
+nongthonmoi.thanhhoa.vn. 43200	IN	NS	ns2.dotvndns.vn.
+nongthonmoi.thanhhoa.vn. 43200	IN	NS	nsbak.dotvndns.com.
+samson.thanhhoa.vn.	43200	IN	NS	ns1.3ts.vn.
+samson.thanhhoa.vn.	43200	IN	NS	ns2.3ts.vn.
+samson.thanhhoa.vn.	43200	IN	NS	ns3.3ts.vn.
+sannhua.thanhhoa.vn.	43200	IN	NS	ns1.matbao.vn.
+sannhua.thanhhoa.vn.	43200	IN	NS	ns2.matbao.vn.
+shop.thanhhoa.vn.	43200	IN	NS	dns1.vietcorp.vn.
+shop.thanhhoa.vn.	43200	IN	NS	dns2.vietcorp.vn.
+sungroup.thanhhoa.vn.	43200	IN	NS	ns1.matbao.vn.
+sungroup.thanhhoa.vn.	43200	IN	NS	ns2.matbao.vn.
+tretuky.thanhhoa.vn.	43200	IN	NS	ns1.matbao.vn.
+tretuky.thanhhoa.vn.	43200	IN	NS	ns2.matbao.vn.
+vincity.thanhhoa.vn.	43200	IN	NS	ns4.tenten.vn.
+vincity.thanhhoa.vn.	43200	IN	NS	ns5.tenten.vn.
+vincity.thanhhoa.vn.	43200	IN	NS	ns6.tenten.vn.
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.thanhhoa.vn. 43200 IN TXT "Check Intergrity"
+thanhhoa.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010424 3600 1800 604800 5400

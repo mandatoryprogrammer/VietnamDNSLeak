@@ -1,0 +1,25 @@
+hatinh.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010409 3600 1800 604800 5400
+hatinh.vn.		43200	IN	NS	a.dns-servers.vn.
+hatinh.vn.		43200	IN	NS	b.dns-servers.vn.
+hatinh.vn.		43200	IN	NS	c.dns-servers.vn.
+hatinh.vn.		43200	IN	NS	d.dns-servers.vn.
+hatinh.vn.		43200	IN	NS	e.dns-servers.vn.
+hatinh.vn.		43200	IN	NS	f.dns-servers.vn.
+hatinh.vn.		43200	IN	NS	g.dns-servers.vn.
+nguyenhoang.hatinh.vn.	43200	IN	NS	ns4.tenten.vn.
+nguyenhoang.hatinh.vn.	43200	IN	NS	ns5.tenten.vn.
+nguyenhoang.hatinh.vn.	43200	IN	NS	ns6.tenten.vn.
+phattriennongnghiep.hatinh.vn. 43200 IN	NS	ns1.matbao.vn.
+phattriennongnghiep.hatinh.vn. 43200 IN	NS	ns2.matbao.vn.
+sannhua.hatinh.vn.	43200	IN	NS	ns1.matbao.vn.
+sannhua.hatinh.vn.	43200	IN	NS	ns2.matbao.vn.
+shop.hatinh.vn.		43200	IN	NS	dns1.vietcorp.vn.
+shop.hatinh.vn.		43200	IN	NS	dns2.vietcorp.vn.
+vincity.hatinh.vn.	43200	IN	NS	ns1.matbao.vn.
+vincity.hatinh.vn.	43200	IN	NS	ns2.matbao.vn.
+vnpt.hatinh.vn.		43200	IN	NS	ns1.vdconline.vn.
+vnpt.hatinh.vn.		43200	IN	NS	ns2.vdconline.vn.
+www.hatinh.vn.		43200	IN	NS	ns1.vdconline.vn.
+www.hatinh.vn.		43200	IN	NS	ns2.vdconline.vn.
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.hatinh.vn. 43200 IN TXT	"Check Intergrity"
+hatinh.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010409 3600 1800 604800 5400

@@ -1,0 +1,38 @@
+bacgiang.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010433 3600 1800 604800 5400
+bacgiang.vn.		43200	IN	NS	a.dns-servers.vn.
+bacgiang.vn.		43200	IN	NS	b.dns-servers.vn.
+bacgiang.vn.		43200	IN	NS	c.dns-servers.vn.
+bacgiang.vn.		43200	IN	NS	d.dns-servers.vn.
+bacgiang.vn.		43200	IN	NS	e.dns-servers.vn.
+bacgiang.vn.		43200	IN	NS	f.dns-servers.vn.
+bacgiang.vn.		43200	IN	NS	g.dns-servers.vn.
+danhba.bacgiang.vn.	43200	IN	NS	ns1.zonedns.vn.
+danhba.bacgiang.vn.	43200	IN	NS	ns2.zonedns.vn.
+danhba.bacgiang.vn.	43200	IN	NS	ns3.zonedns.vn.
+hr.bacgiang.vn.		43200	IN	NS	ns1.zonedns.vn.
+hr.bacgiang.vn.		43200	IN	NS	ns2.zonedns.vn.
+hr.bacgiang.vn.		43200	IN	NS	ns3.zonedns.vn.
+hr.bacgiang.vn.		43200	IN	NS	ns4.zonedns.vn.
+mail.bacgiang.vn.	43200	IN	NS	ns1.zonedns.vn.
+mail.bacgiang.vn.	43200	IN	NS	ns2.zonedns.vn.
+mail.bacgiang.vn.	43200	IN	NS	ns3.zonedns.vn.
+nguonnhanluc.bacgiang.vn. 43200	IN	NS	ns1.zonedns.vn.
+nguonnhanluc.bacgiang.vn. 43200	IN	NS	ns2.zonedns.vn.
+nguonnhanluc.bacgiang.vn. 43200	IN	NS	ns3.zonedns.vn.
+nguonnhanluc.bacgiang.vn. 43200	IN	NS	ns4.zonedns.vn.
+nhanluc.bacgiang.vn.	43200	IN	NS	ns1.zonedns.vn.
+nhanluc.bacgiang.vn.	43200	IN	NS	ns2.zonedns.vn.
+nhanluc.bacgiang.vn.	43200	IN	NS	ns3.zonedns.vn.
+nhanluc.bacgiang.vn.	43200	IN	NS	ns4.zonedns.vn.
+sannhua.bacgiang.vn.	43200	IN	NS	ns1.matbao.vn.
+sannhua.bacgiang.vn.	43200	IN	NS	ns2.matbao.vn.
+shop.bacgiang.vn.	43200	IN	NS	dns1.vietcorp.vn.
+shop.bacgiang.vn.	43200	IN	NS	dns2.vietcorp.vn.
+toyota.bacgiang.vn.	43200	IN	NS	ns1.vdconline.vn.
+toyota.bacgiang.vn.	43200	IN	NS	ns2.vdconline.vn.
+vava.bacgiang.vn.	43200	IN	NS	ns1.anycast.vn.
+vava.bacgiang.vn.	43200	IN	NS	ns2.anycast.vn.
+vava.bacgiang.vn.	43200	IN	NS	ns3.anycast.vn.
+vava.bacgiang.vn.	43200	IN	NS	ns4.anycast.vn.
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.bacgiang.vn. 43200 IN TXT "Check Intergrity"
+bacgiang.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010433 3600 1800 604800 5400

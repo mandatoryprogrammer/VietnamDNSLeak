@@ -1,0 +1,27 @@
+lamdong.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010415 3600 1800 604800 5400
+lamdong.vn.		43200	IN	NS	a.dns-servers.vn.
+lamdong.vn.		43200	IN	NS	b.dns-servers.vn.
+lamdong.vn.		43200	IN	NS	c.dns-servers.vn.
+lamdong.vn.		43200	IN	NS	d.dns-servers.vn.
+lamdong.vn.		43200	IN	NS	e.dns-servers.vn.
+lamdong.vn.		43200	IN	NS	f.dns-servers.vn.
+lamdong.vn.		43200	IN	NS	g.dns-servers.vn.
+baoloconline.lamdong.vn. 43200	IN	NS	ns1.matbao.vn.
+baoloconline.lamdong.vn. 43200	IN	NS	ns2.matbao.vn.
+cuudulieu.lamdong.vn.	43200	IN	NS	ns1.inet.vn.
+cuudulieu.lamdong.vn.	43200	IN	NS	ns2.inet.vn.
+dalat.lamdong.vn.	43200	IN	NS	dnstemp3.dotvndns.com.
+dalat.lamdong.vn.	43200	IN	NS	dnstemp4.dotvndns.com.
+ecommerce.lamdong.vn.	43200	IN	NS	dns1.lamdong.gov.vn.
+ecommerce.lamdong.vn.	43200	IN	NS	dns2.lamdong.gov.vn.
+egov.lamdong.vn.	43200	IN	NS	dns2.lamdong.gov.vn.
+egov.lamdong.vn.	43200	IN	NS	dns3.lamdong.gov.vn.
+egov.lamdong.vn.	43200	IN	NS	dns4.lamdong.gov.vn.
+shop.lamdong.vn.	43200	IN	NS	dns1.vietcorp.vn.
+shop.lamdong.vn.	43200	IN	NS	dns2.vietcorp.vn.
+thptnguyenthaibinh.lamdong.vn. 43200 IN	NS	ns1.anycast.vn.
+thptnguyenthaibinh.lamdong.vn. 43200 IN	NS	ns2.anycast.vn.
+thuongmaidientu.lamdong.vn. 43200 IN	NS	dns1.lamdong.gov.vn.
+thuongmaidientu.lamdong.vn. 43200 IN	NS	dns2.lamdong.gov.vn.
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.lamdong.vn. 43200 IN TXT "Check Intergrity"
+lamdong.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010415 3600 1800 604800 5400

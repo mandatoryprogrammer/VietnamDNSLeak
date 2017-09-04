@@ -1,0 +1,40 @@
+quangnam.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010423 3600 1800 604800 5400
+quangnam.vn.		43200	IN	NS	a.dns-servers.vn.
+quangnam.vn.		43200	IN	NS	b.dns-servers.vn.
+quangnam.vn.		43200	IN	NS	c.dns-servers.vn.
+quangnam.vn.		43200	IN	NS	d.dns-servers.vn.
+quangnam.vn.		43200	IN	NS	e.dns-servers.vn.
+quangnam.vn.		43200	IN	NS	f.dns-servers.vn.
+quangnam.vn.		43200	IN	NS	g.dns-servers.vn.
+batdongsan.quangnam.vn.	43200	IN	NS	ns-hold.vnnic.vn.
+chimtridatquang.quangnam.vn. 43200 IN	NS	ns3.vdc3.vn.
+chimtridatquang.quangnam.vn. 43200 IN	NS	ns4.vdc3.vn.
+dinhtranthanhchiem.quangnam.vn.	43200 IN NS	ns3.vdc3.vn.
+dinhtranthanhchiem.quangnam.vn.	43200 IN NS	ns4.vdc3.vn.
+dulich.quangnam.vn.	43200	IN	NS	ns1.pavietnam.vn.
+dulich.quangnam.vn.	43200	IN	NS	ns2.pavietnam.vn.
+dulich.quangnam.vn.	43200	IN	NS	nsbak.pavietnam.net.
+luatsu.quangnam.vn.	43200	IN	NS	ns1.matbao.vn.
+luatsu.quangnam.vn.	43200	IN	NS	ns2.matbao.vn.
+namlimxanh.quangnam.vn.	43200	IN	NS	ns1.pavietnam.vn.
+namlimxanh.quangnam.vn.	43200	IN	NS	ns2.pavietnam.vn.
+namlimxanh.quangnam.vn.	43200	IN	NS	nsbak.pavietnam.net.
+pctt.quangnam.vn.	43200	IN	NS	dns1.dsp.com.vn.
+pctt.quangnam.vn.	43200	IN	NS	dns2.dsp.com.vn.
+shop.quangnam.vn.	43200	IN	NS	dns1.vietcorp.vn.
+shop.quangnam.vn.	43200	IN	NS	dns2.vietcorp.vn.
+tamky.quangnam.vn.	43200	IN	NS	ns4.tenten.vn.
+tamky.quangnam.vn.	43200	IN	NS	ns5.tenten.vn.
+tamky.quangnam.vn.	43200	IN	NS	ns6.tenten.vn.
+thietkeweb.quangnam.vn.	43200	IN	NS	ns1.matbao.vn.
+thietkeweb.quangnam.vn.	43200	IN	NS	ns2.matbao.vn.
+vinpearl.quangnam.vn.	43200	IN	NS	ns4.tenten.vn.
+vinpearl.quangnam.vn.	43200	IN	NS	ns5.tenten.vn.
+vinpearl.quangnam.vn.	43200	IN	NS	ns6.tenten.vn.
+vpubnd.quangnam.vn.	43200	IN	NS	dns1.dptqnam.gov.vn.
+vpubnd.quangnam.vn.	43200	IN	NS	dns2.dptqnam.gov.vn.
+www.quangnam.vn.	43200	IN	NS	ns1.tenmienquocgia.vn.
+www.quangnam.vn.	43200	IN	NS	ns2.tenmienquocgia.vn.
+www.quangnam.vn.	43200	IN	NS	tel.0989212722.tenmienquocgia.vn.
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.quangnam.vn. 43200 IN TXT "Check Intergrity"
+quangnam.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010423 3600 1800 604800 5400

@@ -1,0 +1,22 @@
+haiduong.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010410 3600 1800 604800 5400
+haiduong.vn.		43200	IN	NS	a.dns-servers.vn.
+haiduong.vn.		43200	IN	NS	b.dns-servers.vn.
+haiduong.vn.		43200	IN	NS	c.dns-servers.vn.
+haiduong.vn.		43200	IN	NS	d.dns-servers.vn.
+haiduong.vn.		43200	IN	NS	e.dns-servers.vn.
+haiduong.vn.		43200	IN	NS	f.dns-servers.vn.
+haiduong.vn.		43200	IN	NS	g.dns-servers.vn.
+34.haiduong.vn.		43200	IN	NS	ns1.pavietnam.vn.
+34.haiduong.vn.		43200	IN	NS	ns2.pavietnam.vn.
+34.haiduong.vn.		43200	IN	NS	nsbak.pavietnam.net.
+sannhua.haiduong.vn.	43200	IN	NS	ns1.matbao.vn.
+sannhua.haiduong.vn.	43200	IN	NS	ns2.matbao.vn.
+shop.haiduong.vn.	43200	IN	NS	dns1.vietcorp.vn.
+shop.haiduong.vn.	43200	IN	NS	dns2.vietcorp.vn.
+toyota.haiduong.vn.	43200	IN	NS	ns1.matbao.vn.
+toyota.haiduong.vn.	43200	IN	NS	ns2.matbao.vn.
+vieclam.haiduong.vn.	43200	IN	NS	ns1.dotvndns.vn.
+vieclam.haiduong.vn.	43200	IN	NS	ns2.dotvndns.vn.
+vieclam.haiduong.vn.	43200	IN	NS	ns3.dotvndns.vn.
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.haiduong.vn. 43200 IN TXT "Check Intergrity"
+haiduong.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010410 3600 1800 604800 5400

@@ -1,0 +1,17 @@
+tayninh.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010444 3600 1800 604800 5400
+tayninh.vn.		43200	IN	NS	a.dns-servers.vn.
+tayninh.vn.		43200	IN	NS	b.dns-servers.vn.
+tayninh.vn.		43200	IN	NS	c.dns-servers.vn.
+tayninh.vn.		43200	IN	NS	d.dns-servers.vn.
+tayninh.vn.		43200	IN	NS	e.dns-servers.vn.
+tayninh.vn.		43200	IN	NS	f.dns-servers.vn.
+tayninh.vn.		43200	IN	NS	g.dns-servers.vn.
+gps.tayninh.vn.		43200	IN	NS	ns1.inet.vn.
+gps.tayninh.vn.		43200	IN	NS	ns2.inet.vn.
+shop.tayninh.vn.	43200	IN	NS	dns1.vietcorp.vn.
+shop.tayninh.vn.	43200	IN	NS	dns2.vietcorp.vn.
+tpk.tayninh.vn.		43200	IN	NS	ns9.hawkhost.com.
+tpk.tayninh.vn.		43200	IN	NS	ns10.hawkhost.com.
+tpk.tayninh.vn.		43200	IN	NS	hkg003.hawkhost.com.
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.tayninh.vn. 43200 IN TXT "Check Intergrity"
+tayninh.vn.		43200	IN	SOA	dns-master.vnnic.vn. postmaster.vnnic.vn. 2017010444 3600 1800 604800 5400
